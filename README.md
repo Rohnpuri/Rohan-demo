@@ -1,4 +1,4 @@
-# Rohan-demo
+clear# Rohan-demo
 This is my first Git Repository
 <br>
-Author-Rohan puri
+Author-Rohan puri(Rajpura)
